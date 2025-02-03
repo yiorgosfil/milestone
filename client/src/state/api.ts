@@ -69,7 +69,7 @@ export interface Task {
   author?: User
   assignee?: User
   comments?: Comment[]
-  attachements?: Attachment[]
+  attachments?: Attachment[]
 }
 
 export interface SearchResults {
