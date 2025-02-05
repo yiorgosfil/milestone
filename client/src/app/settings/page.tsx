@@ -35,3 +35,10 @@ export default function Settings() {
     </div>
   )
 }
+
+/*
+TODO: Improvements:
+- Make it dynamic: Instead of hardcoding userSettings, fetch user settings from an API or global state.
+- Add edit functionality: Allow users to modify their settings by using an <input> or a <form>.
+- Improve UX: Add a "Change Password" or "Update Settings" button.
+*/

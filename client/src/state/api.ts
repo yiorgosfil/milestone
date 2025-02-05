@@ -10,7 +10,7 @@
 
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 // TODO: install dependecies
-import { fetchAuthSession, getCurrentUser } from 'aws-ampliyf/auth'
+// import { fetchAuthSession, getCurrentUser } from 'aws-ampliyf/auth'
 
 export interface Project {
   id: number

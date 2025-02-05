@@ -3,7 +3,7 @@
 import { useAppDispatch, useAppSelector } from "@/app/redux"
 import { setIsSidebarCollapsed } from "@/state"
 import { useGetAuthUserQuery, useGetProjectsQuery } from "@/state/api"
-import { signOut } from "aws-amplify/auth"
+// import { signOut } from "aws-amplify/auth"
 import {
   AlertCircle,
   AlertOctagon,
