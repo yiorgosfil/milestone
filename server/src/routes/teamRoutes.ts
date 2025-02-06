@@ -1,4 +1,4 @@
-import { Router } from 'exporess'
+import { Router } from 'express'
 import { getTeams } from '../controllers/teamController'
 
 const router = Router()
